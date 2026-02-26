@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "plataforma-saas",
+    "titulo": "Plataforma SaaS",
+    "descripcion": "Producto multi-tenant para gestión de operaciones y analítica en tiempo real.",
+    "stack": ["Next.js", "PostgreSQL", "Docker"]
+  }
+]
