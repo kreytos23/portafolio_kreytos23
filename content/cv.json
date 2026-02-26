@@ -1,0 +1,63 @@
+{
+  "experience": [
+    {
+      "role": "Frontend Developer",
+      "company": "Freelance",
+      "period": "2022 - Actualidad",
+      "location": "Remoto",
+      "achievements": [
+        "Desarrollo de interfaces web para clientes de distintos sectores.",
+        "Mejora de rendimiento promedio en Lighthouse de 68 a 92 puntos.",
+        "Implementación de sistemas de diseño reutilizables."
+      ],
+      "metrics": {
+        "projectsDelivered": 14,
+        "clientsServed": 9,
+        "timeSavedHours": 300,
+        "revenueInfluencedUsd": 72000
+      }
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Consultoría Tech",
+      "period": "2020 - 2022",
+      "location": "Lima, Perú",
+      "achievements": [
+        "Construcción de módulos internos para operaciones y ventas.",
+        "Migración de aplicaciones legacy a stack moderno.",
+        "Automatización de reportes operativos con integración de datos."
+      ],
+      "metrics": {
+        "projectsDelivered": 8,
+        "clientsServed": 5,
+        "timeSavedHours": 420,
+        "revenueInfluencedUsd": 128000
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica",
+      "degree": "Ingeniería de Sistemas",
+      "period": "2016 - 2021"
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    "backend": ["Node.js", "Express", "REST APIs", "PostgreSQL", "MongoDB"],
+    "devops": ["Docker", "GitHub Actions", "Vercel"],
+    "soft": ["Comunicación", "Liderazgo técnico", "Pensamiento analítico"]
+  },
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer",
+      "issuer": "Coursera",
+      "year": 2023
+    },
+    {
+      "name": "AWS Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "year": 2024
+    }
+  ]
+}

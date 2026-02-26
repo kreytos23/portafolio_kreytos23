@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Portafolio Personal",
+    "repoUrl": "https://github.com/kreytos23/portfolio",
+    "description": "Sitio web personal para mostrar experiencia, proyectos y contenido técnico.",
+    "impact": {
+      "users": 4200,
+      "monthlyVisits": 1600,
+      "conversionRate": 0.12,
+      "timeSavedHours": 45,
+      "revenueUsd": 0
+    },
+    "stack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vercel"
+    ],
+    "highlights": [
+      "Integración de contenido dinámico vía JSON",
+      "Optimización SEO y Core Web Vitals",
+      "Diseño responsive y accesible"
+    ],
+    "featured": true,
+    "repoStats": {
+      "stars": 21,
+      "forks": 4,
+      "primaryLanguage": "TypeScript"
+    }
+  },
+  {
+    "name": "Dashboard de Ventas",
+    "repoUrl": "https://github.com/kreytos23/sales-dashboard",
+    "description": "Panel de analítica para seguimiento de KPIs comerciales en tiempo real.",
+    "impact": {
+      "users": 180,
+      "monthlyVisits": 2200,
+      "conversionRate": 0.18,
+      "timeSavedHours": 320,
+      "revenueUsd": 54000
+    },
+    "stack": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "Chart.js"
+    ],
+    "highlights": [
+      "Visualización de KPIs en tiempo real",
+      "Automatización de reportes semanales",
+      "Integración con CRM y ERP"
+    ],
+    "featured": true,
+    "repoStats": {
+      "stars": 34,
+      "forks": 7,
+      "primaryLanguage": "TypeScript"
+    }
+  },
+  {
+    "name": "API de Gestión de Tareas",
+    "repoUrl": "https://github.com/kreytos23/task-api",
+    "description": "API REST para gestión de tareas y flujos internos de equipos.",
+    "impact": {
+      "users": 95,
+      "monthlyVisits": 900,
+      "conversionRate": 0.07,
+      "timeSavedHours": 210,
+      "revenueUsd": 18000
+    },
+    "stack": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "MongoDB",
+      "Docker"
+    ],
+    "highlights": [
+      "Arquitectura desacoplada por capas",
+      "Documentación OpenAPI",
+      "Cobertura de pruebas de endpoints críticos"
+    ],
+    "featured": false,
+    "repoStats": {
+      "stars": 16,
+      "forks": 3,
+      "primaryLanguage": "TypeScript"
+    }
+  }
+]
